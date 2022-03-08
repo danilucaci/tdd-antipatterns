@@ -2,9 +2,9 @@
 
 Based on: [http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/]
 
-## The Liar An
+## The Liar
 
-Entire unit test that passes all of the test cases it has and appears valid, but upon closer inspection it is discovered that it doesn’t really test the intended target at all.
+An entire unit test that passes all of the test cases it has and appears valid, but upon closer inspection it is discovered that it doesn’t really test the intended target at all.
 
 ## Excessive Setup
 
